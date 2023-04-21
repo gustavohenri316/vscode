@@ -15,7 +15,7 @@ export function Header({textHeader}: HeaderProps) {
         <Options>
           <span>File</span>
           <span>Edite</span>
-          <span>Slection</span>
+          <span>Selection</span>
           <span>View</span>
           <span>Go</span>
           <span>Run</span>
